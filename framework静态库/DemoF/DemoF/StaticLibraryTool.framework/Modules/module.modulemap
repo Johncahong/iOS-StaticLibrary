@@ -1,0 +1,6 @@
+framework module StaticLibraryTool {
+  umbrella header "StaticLibraryTool.h"
+
+  export *
+  module * { export * }
+}
